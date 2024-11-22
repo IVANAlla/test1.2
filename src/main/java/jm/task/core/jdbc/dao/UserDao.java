@@ -1,7 +1,6 @@
-package jdbc.dao;
+package jm.task.core.jdbc.dao;
 
-import jdbc.model.User;
-import jdbc.model.User;
+import jm.task.core.jdbc.model.User;
 
 import java.util.List;
 
